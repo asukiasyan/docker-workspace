@@ -1,2 +1,2 @@
-# docker-workspace
+# workspace
 Basic DevEnv Setup to work from within the container
